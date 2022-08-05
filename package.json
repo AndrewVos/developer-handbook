@@ -14,7 +14,15 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.4",
+    "autoprefixer": "^10.4.8",
+    "classnames": "^2.3.1",
     "eslint": "8.21.0",
-    "eslint-config-next": "12.2.4"
+    "eslint-config-next": "12.2.4",
+    "github-slugger": "^1.4.0",
+    "postcss": "^8.4.14",
+    "react-markdown": "^8.0.3",
+    "rehype-slug": "^5.0.1",
+    "tailwindcss": "^3.1.7"
   }
 }
